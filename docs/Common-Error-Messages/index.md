@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Error Messages
+title: Common-Error-Messages
 nav_order: 2
 has_children: true
 ---
