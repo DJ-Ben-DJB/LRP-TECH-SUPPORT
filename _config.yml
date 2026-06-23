@@ -1,8 +1,7 @@
 title: Let’s RP Technical Support
 description: Let’s RP Technical Support Repository
 theme: just-the-docs
-
-url: https://letsrp.co.uk
+url: https://dj-ben-djb.github.io/LRP-TECH-SUPPORT/
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
@@ -16,3 +15,25 @@ favicon_ico: "/assets/images/LRP_Reboot_Logo-1TS.png"
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
+
+nav_external_links_new_tab: true
+heading_anchors: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+exclude: ["LICENSE"]
