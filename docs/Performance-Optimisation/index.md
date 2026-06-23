@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performance Optimisation
+title: Performance-Optimisation
 nav_order: 2
 has_children: true
 ---
