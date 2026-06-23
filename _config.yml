@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Let’s RP Technical Support
+description: Let’s RP Technical Support Repository
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://letsrp.co.uk
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/LRP_Reboot_Logo-1.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/LRP_Reboot_Logo-1.png"
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
