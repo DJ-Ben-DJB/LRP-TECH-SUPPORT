@@ -27,25 +27,6 @@ Low available storage can cause installation, update, caching, and general FiveM
 
 ---
 
-## Important Information
-
-Many FiveM issues are caused by the local PC or network environment, rather than the Lets RP server itself.
-
-In particular, the following can cause problems:
-
-- Unstable Wi-Fi
-- Packet loss
-- Bufferbloat
-- Background downloads/uploads
-- Outdated drivers
-- Insufficient free storage
-- Corrupted game files
-- Outdated Windows installations
-
-Working through this guide before contacting support can significantly reduce troubleshooting time.
-
---- 
-
 ## Network Requirements
 
 A stable network connection is particularly important for FiveM.
