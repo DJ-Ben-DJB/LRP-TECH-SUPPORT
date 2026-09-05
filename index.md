@@ -11,7 +11,7 @@ Welcome to the **Let's RP Technical Support Repository**.
 This documentation site is a knowledge base used to provide technical support to the Let's RP community. This includes troubleshooting guides and user assistance procedures.
 
 {: .highlight }
-> **Disclaimer:**  This documentation is intended for use by Let's RP staff members when assisting players with troubleshooting and technical support. All instructions contained within are designed to resolve common FiveM and system-related issues. However, some steps may involve changes to game files, settings, or system configurations. Staff should ensure players are informed before proceeding with any troubleshooting steps that could affect their system or game installation. Players follow all guidance at their own discretion. Let's RP is not responsible for any unintended changes, data loss, or system issues that may occur while applying these instructions. If a player is unsure or uncomfortable with any step, they should be advised to stop and seek further assistance. This repository is not affiliated with Rockstar Games or FiveM and does not replace official support channels. While we aim to keep all information accurate and up to date, fixes and steps may vary depending on individual systems and game updates.
+> **Disclaimer:**  This documentation is intended for use by Let's RP community when assisting players with troubleshooting and technical support. All instructions contained within are designed to resolve common FiveM and system-related issues. However, some steps may involve changes to game files, settings, or system configurations. Players follow all guidance at their own discretion. Let's RP is not responsible for any unintended changes, data loss, or system issues that may occur while applying these instructions. If a player is unsure or uncomfortable with any step, then STOP and seek further assistance. This repository is not affiliated with Rockstar Games or FiveM and does not replace official support channels. While we aim to keep all information accurate and up to date, fixes and steps may vary depending on individual systems and game updates.
 
 ---
 
@@ -39,7 +39,7 @@ For the best experience on Lets RP, we recommend the following hardware or bette
 | **Upload Speed** | 10 Mbps or better |
 | **Network Connection** | Wired Ethernet recommended |
 
-> [!IMPORTANT]
+> **IMPORTANT**
 > We recommend having at least **20 GB of additional free space** available while playing.
 
 Low available storage can cause installation, update, caching, and general FiveM issues.
@@ -85,7 +85,7 @@ If Ethernet is not possible:
 5. Close or pause applications such as OneDrive that may be synchronising files.
 6. Avoid other devices heavily using the network while playing.
 
-> [!TIP]
+> **TIP**
 > If possible, consider purchasing a sufficiently long Ethernet cable. A wired connection is often the simplest way to eliminate local Wi-Fi interference as a potential cause of FiveM issues.
 
 ### Test Your Connection
@@ -105,7 +105,7 @@ We recommend a minimum internet connection of approximately:
 
 Higher speeds are beneficial, particularly when multiple devices are using the connection simultaneously.
 
-> [!NOTE]
+> **NOTE:**
 > Internet speed alone does not determine connection quality. Latency, packet loss, Wi-Fi interference, routing, and bufferbloat can all contribute to FiveM connectivity issues.
 
 ### Pause Intensive Network Activity
@@ -154,7 +154,7 @@ Also check for optional hardware and driver updates:
 4. Install any relevant available updates.
 5. Restart your PC.
 
-> [!IMPORTANT]
+> **IMPORTANT**
 > Always restart your PC after completing Windows updates before testing FiveM again.
 
 ---
@@ -184,7 +184,7 @@ For AMD graphics cards, use the appropriate AMD graphics software to check for d
 
 For supported Intel graphics hardware, use Intel's official driver update tools.
 
-> [!IMPORTANT]
+> **IMPORTANT**
 > After installing a graphics driver update, **restart your PC** before testing FiveM.
 
 ---
@@ -213,10 +213,12 @@ You can usually find this by:
 
 Once you know the model, visit the **official motherboard manufacturer's website** and check for available BIOS/firmware updates.
 
-> [!WARNING]
+> **WARNING**
 > BIOS updates are hardware-specific. Follow the manufacturer's instructions exactly. Do not interrupt the PC during a BIOS update.
 
 If you are unsure how to update your BIOS, contact your motherboard manufacturer's support team or consult their official documentation.
+
+--- 
 
 ## Clear FiveM Cache
 
@@ -235,12 +237,14 @@ Delete the following folders:
 - server-cache
 - server-cache-priv
 
-> [!WARNING]
+> **WARNING**
 > Do not delete other FiveM files or folders unless specifically instructed
 
 After deleting the cache, launch FiveM again.
 
 FiveM will recreate the required cache files automatically.
+
+--- 
 
 ## Verify GTA V Installation
 
